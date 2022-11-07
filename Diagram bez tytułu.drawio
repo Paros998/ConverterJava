@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T19:14:36.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZJSmjl9DVroDaIitqrOC" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T19:15:30.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ixq69p7n7aZjFgyLR7WO" version="20.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2608" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C60ZqoSRAlY_a-X1RfJH-2" value="Zatrudnienie" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=default;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-140" y="164" width="160" height="346" as="geometry" />
+          <mxGeometry x="-140" y="164" width="160" height="372" as="geometry" />
         </mxCell>
         <mxCell id="C60ZqoSRAlY_a-X1RfJH-6" value="aplikant_id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="C60ZqoSRAlY_a-X1RfJH-2" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -204,8 +204,11 @@
         <mxCell id="RC8dSiBdHBdxVrvktBeC-1" value="rozmowa_kwal_przeprowadzona Bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="C60ZqoSRAlY_a-X1RfJH-2">
           <mxGeometry y="294" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RC8dSiBdHBdxVrvktBeC-0" value="zdany_test_kwal Bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="C60ZqoSRAlY_a-X1RfJH-2">
+        <mxCell id="RC8dSiBdHBdxVrvktBeC-18" value="ilość_prac_firmy" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="C60ZqoSRAlY_a-X1RfJH-2">
           <mxGeometry y="320" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RC8dSiBdHBdxVrvktBeC-0" value="zdany_test_kwal Bool" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="C60ZqoSRAlY_a-X1RfJH-2">
+          <mxGeometry y="346" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5l4Is7Hh_siL4jpAWE_x-0" value="Stanowisko" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-440" y="130" width="160" height="208" as="geometry">
